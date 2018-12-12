@@ -1,4 +1,4 @@
-describe('Donate page', () => {
+describe('Show page', () => {
   beforeEach(() => {
     cy.visit('http://localhost:8084/#/')
     // Click Donate navbar link
